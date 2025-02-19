@@ -1,0 +1,18 @@
+BasedOnStyle: Chromium
+AlignArrayOfStructures: Right  
+AlignConsecutiveBitFields: None 
+BinPackArguments: false 
+BinPackParameters: false 
+ColumnLimit: 120 # Probably need to be longer
+IndentWidth: 4  
+AlignAfterOpenBracket: BlockIndent 
+BreakBeforeBraces: Attach
+InsertNewlineAtEOF: true
+LineEndingStyle: LF # Check if Correct
+MaxEmptyLinesToKeep: 2 
+AllowShortBlocksOnASingleLine: Empty
+# AllowShortEnumsOnASingleLine: true # Need to Check 
+# AllowShortFunctionsOnASingleLine: Empty # Need to Check 
+# AllowShortCaseLabelsOnASingleLine: true # Need to Check 
+# AllowShortIfStatementsOnASingleLine: Never # Need to Check 
+SortIncludes: Never

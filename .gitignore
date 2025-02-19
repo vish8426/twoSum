@@ -1,0 +1,14 @@
+# Ignore the bin Directory
+bin/
+
+# Ignore the build Directory
+build/
+
+# Ignore Executable Files
+*.exe
+
+# Ignore Object Files
+*.o
+
+# Ignore IDE-Specific Files
+.vscode/
