@@ -52,8 +52,12 @@ The optimal solution uses a single-pass hash map with a time complexity of \(O(n
     ```bash
     cd twoSum
     ```
+<<<<<<< HEAD
 3. Run the solution using your preferred compiler or interpreter or **make**.
 
+=======
+3. Run the solution using your preferred compiler or interpreter or use **make**.
+>>>>>>> b6425e463cb2f3e4c3d2f02d5e77be7d8aeba005
 
 ## Testing
 To verify the correctness of the solution, execute unit tests covering various scenarios, including edge cases.
@@ -62,4 +66,9 @@ To verify the correctness of the solution, execute unit tests covering various s
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## License
+<<<<<<< HEAD
 This project is licensed under the [MIT License](LICENSE).
+=======
+This project is licensed under the [MIT License](LICENSE).
+
+>>>>>>> b6425e463cb2f3e4c3d2f02d5e77be7d8aeba005
