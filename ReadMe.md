@@ -1,7 +1,7 @@
 # twoSum
 
 ## Problem Description
-The **1. Two Sum** problem requires finding the indices of two numbers in an array `nums` that add up to a given integer `target`. Each input is guaranteed to have exactly one solution, and the same element cannot be used twice. The order of indices does not matter.
+The **Two Sum** problem requires finding the indices of two numbers in an array `nums` that add up to a given integer `target`. Each input is guaranteed to have exactly one solution, and the same element cannot be used twice. The order of indices does not matter.
 
 ### Example 1
 **Input:**  
